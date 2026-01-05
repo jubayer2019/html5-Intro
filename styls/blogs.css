@@ -1,0 +1,16 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+nav li:hover{
+    background-color: lightgreen;
+}
+nav li a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+}
